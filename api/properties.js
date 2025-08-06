@@ -12,7 +12,7 @@ export default async function handler(req, res) {
     return res.status(200).end();
   }
 
-  const API_KEY = '37b5cffffamsh6c4ba5550a4883ep196c6fjsn2dc297e77753';
+  const API_KEY = '38318b4922msh45220d629a5c873p10aea5jsn87c48ca68fc6';
   const API_HOST = 'zillow-com1.p.rapidapi.com';
   
   try {
