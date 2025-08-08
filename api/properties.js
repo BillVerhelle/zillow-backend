@@ -14,7 +14,7 @@ export default async function handler(req, res) {
         method: 'GET',
         headers: {
           'x-rapidapi-host': 'zillow-com1.p.rapidapi.com',
-          'x-rapidapi-key': 'e17250e720msh9c1cf041f60ffa7p1516eejsnb786e264c82e'
+          'x-rapidapi-key': '25270fe2d8msh94761e6134108ecp1ab902jsnba784ecc6e5b'
         }
       }
     );
